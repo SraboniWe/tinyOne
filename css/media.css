@@ -1,0 +1,238 @@
+
+
+@media(max-width: 575.98px){
+    /* header start  */
+    header{
+        padding: 10px 0;
+    }
+    .menu ul li a {
+        padding: 0 20px !important;
+        text-align: right ;
+    } 
+    
+    /* slider start  */
+    .slider{
+        /* padding-bottom: 60px; */
+        padding: 0 0 70px;
+    }
+
+    .c_ind{
+        bottom: -60px;
+    }
+
+    .c_ind  [data-bs-target] {
+    
+        width: 13px;
+        height: 13px;
+    }
+
+    .s_text{
+        margin-top: 0px;
+    }
+
+    .s_text h1{
+        font-size: 25px;
+    }
+
+    .s_text h2{
+        margin: 10px 0;
+        font-size: 18px;
+    }
+
+    .s_text p{
+        margin-bottom: 20px;
+    }
+
+    .s_icon ul li{
+        margin-right: 15px !important;
+    }
+
+    .s_icon ul li i{
+        font-size: 35px;
+    }
+
+    /* feature start */
+    .feature_section {
+       
+    }
+    .common_text h1 {
+        font-size: 25px;
+       
+    }
+    .common_text p {
+        font-size: 17px;
+        margin: 10px 0 0;
+    }
+    .single {
+        margin-top: 30px;
+    }
+    .single_icon {
+        margin-top: 0px;
+    }
+    .single_icon i {
+        font-size: 30px;
+    }
+    .single_content {
+        text-align: center;
+    }
+    .single_content h2 {
+        font-size: 20px;
+        margin-bottom: 2px;
+    }
+    .single_content p {
+        letter-spacing: 0;
+    }
+     /* feature part end*/
+
+     /* contact part start */
+     .contact_form {
+        margin: 40px 0 40px 0;
+    }
+    .contact_icon ul li {
+        font-size: 22px;
+        width: 35px;
+        height: 35px;
+        margin: 0 5px;
+    }
+      /* contact part end  */
+           /* footer start  */
+           footer {
+            padding: 0px 0 70px;
+        }
+          .footer_part1 {
+            text-align: center;
+        }
+        .footer_part2 {
+            margin-top: 40px;
+        }
+        .footer_part2 p {
+            text-align: center;
+        }
+         /* footer start  */
+}
+
+
+@media(min-width: 576px) and (max-width: 767.9px){
+ /* header start  */
+    .menu ul li a {
+        padding: 10 0 0px !important;
+        font-size: 20px;
+        text-align: right ;
+    }
+/* slider start  */
+    .slider{
+        /* padding-bottom: 60px; */
+        padding: 0 0 70px;
+    }
+    
+
+    .c_ind{
+        bottom: -60px;
+    }
+
+    .c_ind  [data-bs-target] {
+    
+        width: 13px;
+        height: 13px;
+    }
+
+    .s_text{
+        margin-top: 0px;
+    }
+
+    .s_text h1{
+        font-size: 25px;
+    }
+
+    .s_text h2{
+        margin: 10px 0;
+        font-size: 18px;
+    }
+
+    .s_text p{
+        margin-bottom: 20px;
+    }
+
+    .s_icon ul li{
+        margin-right: 20px !important;
+    }
+
+    .s_icon ul li i{
+        font-size: 35px;
+    }
+
+    /* feature part start  */
+    .feature_section {
+         
+    }
+    .single {
+        margin-top: 30px;
+    }
+    .single_icon {
+        margin-top: 0px;
+    }
+    .single_icon i {
+        font-size: 30px;
+    }
+    .single_content {
+        text-align: center;
+    }
+    .single_content h2 {
+        font-size: 20px;
+        margin-bottom: 2px;
+    }
+    .single_content p {
+        letter-spacing: 0;
+    }
+    /* feature part end */
+
+     /* contact part start */
+  .contact_form {
+    margin: 40px 0 40px 0;
+   }
+   .contact_icon ul li {
+    font-size: 22px;
+    width: 35px;
+    height: 35px;
+    margin: 0 10px;
+   }
+  /* contact part end  */
+  /* footer start  */
+  footer {
+    padding: 0px 0 70px;
+}
+  .footer_part1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.footer_part2 p {
+    text-align: center;
+}
+ /* footer start  */
+    
+}
+
+@media(min-width: 768px) and (max-width: 991.9px){
+ /* header start  */
+
+    .menu ul li a {
+        padding: 0 20px !important;
+        text-align: right ;
+    }
+    /* feature start  */
+  .single {
+    margin-top: 50px;
+}
+.single_icon i {
+    font-size: 32px;
+}
+/* feature end  */
+
+/* contact part start  */
+.contact_form {
+    margin: 40px 0 50px 0;
+}
+/* contact part end  */
+}
+
+
